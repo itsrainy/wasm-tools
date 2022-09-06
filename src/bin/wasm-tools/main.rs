@@ -47,6 +47,7 @@ subcommands! {
     (objdump, "objdump")
     (strip, "strip")
     (compose, "compose")
+    (componentize, "componentize")
 }
 
 fn main() -> ExitCode {
